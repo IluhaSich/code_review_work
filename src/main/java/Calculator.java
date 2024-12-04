@@ -15,7 +15,7 @@ public class Calculator {
         int a = 321;
         int b = 78;
 
-        return diff(add(a, times(a, b)), div(b, a));
+        return dif(add(a, times(a, b)), div(b, a));
     }
     public int solverNikitin(){
         int a = 10;
